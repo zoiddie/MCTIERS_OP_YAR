@@ -1,0 +1,16 @@
+auto-whitelist:
+  enabled: true
+  tier-criteria: ">=LT3"
+
+tier-colors:
+  LT5: "<#D3D3D3>LT5"
+  HT5: "<#808080>HT5"
+  LT4: "<#90EE90>LT4"
+  HT4: "<#006400>HT4"
+  LT3: "<#EEE8AA>LT3"
+  HT3: "<#DAA520>HT3"
+  LT2: "<#FFE4B5>LT2"
+  HT2: "<#FFA500>HT2"
+  LT1: "<#FFB6C1>LT1"
+  HT1: "<#FF0000>HT1"
+  UNRANKED: "<#D3D3D3>N/A"

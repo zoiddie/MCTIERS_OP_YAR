@@ -1,0 +1,15 @@
+name: McTiers
+version: '1.0.0'
+main: dev.zoid.mctiers.McTiers
+api-version: '1.21'
+author: 'Zoid'
+commands:
+  tier:
+    usage: /tier [player]
+  mctiers:
+    usage: /mctiers reload
+permissions:
+  mctiers.reload:
+    default: op
+  mctiers.tier:
+    default: true
