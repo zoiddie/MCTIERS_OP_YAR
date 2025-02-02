@@ -15,4 +15,3 @@ A lightweight, performant and maintainable open source tiers plugin
 |-------------------|:-----------------------------------------------|
 | `%vanilla%`           | parse tier   |
 <hr>
---
